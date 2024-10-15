@@ -1,0 +1,12 @@
+### GET request to example server
+POST localhost:8080/books
+Content-Type: application/json
+
+{
+  "title": "The Shining",
+  "author": "Stephen King"
+}
+
+###
+
+GET localhost:8080/books
