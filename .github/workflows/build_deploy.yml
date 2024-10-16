@@ -16,7 +16,7 @@ on:
 
 env:
   AWS_REGION: eu-central-1
-  ECR_REPOSITORY: sample/backend
+  ECR_REPOSITORY: backend/sample
 
 jobs:
   build:
